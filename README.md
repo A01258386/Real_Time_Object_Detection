@@ -12,10 +12,10 @@ Steps:
 
 Collaborators:
 
-Amanda Kuiack 
-
-
-Steven Chang
-
+Amanda Kuiack - A01232597
 
 Gokce Gokmen - A01258386
+
+
+Steven Chang - 
+
