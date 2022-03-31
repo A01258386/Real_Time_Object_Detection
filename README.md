@@ -3,7 +3,7 @@ Computer Vision to Help Nature
 
 In this project, we will use Yolo v5 (YOLO: Real-Time Object Detection) to detect and classify various objects. The goal is to identify areas of nature that would benefit from AI and automatic detection/classification - for example, plastic detection in images in the ocean, whale detection to calculate the number of whales in specific seas, other animals, etc.
 
-Please see the Jupyter Notebook
+For Solution Challenge, Please see the Jupyter Notebook : YOLOv5_Custom_Training.ipynb
 
 Collaborators:
 
