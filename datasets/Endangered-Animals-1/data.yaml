@@ -1,0 +1,9 @@
+names:
+- Diceros bicornis
+- Elephas-maximus
+- Gorilla gorilla
+- Panthera tigris
+- Sagittarius serpentarius
+nc: 5
+train: /content/datasets/merged-4-1/train/images
+val: /content/datasets/merged-4-1/valid/images
